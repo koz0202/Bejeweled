@@ -7,3 +7,4 @@ Jedná se o hru, kde je na herním poli několik různých symbolů. Symboly se 
 - dotykové ovládání
 - možnost zobrazení tabulky s nejlepšími vysledky
 
+![alt text](https://raw.githubusercontent.com/koz0202/Bejeweled/branch/bej.png)
