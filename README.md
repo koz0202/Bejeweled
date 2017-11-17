@@ -7,4 +7,6 @@ Jedná se o hru, kde je na herním poli několik různých symbolů. Symboly se 
 - dotykové ovládání
 - možnost zobrazení tabulky s nejlepšími vysledky
 
+Na obrázku je vidět ukázka hry. Herní pole 8x8.
+
 ![alt text](https://github.com/koz0202/Bejeweled/blob/master/bej.png)
