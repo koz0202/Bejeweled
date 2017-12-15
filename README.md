@@ -3,9 +3,8 @@ Jedná se o hru, kde je na herním poli několik různých symbolů. Symboly se 
 
 - při interakci se symboly se bude přehrávat zvuk
 - použití canvasu
-- uložení rozehrané hry
 - dotykové ovládání
-- možnost zobrazení tabulky s nejlepšími vysledky
+- uložení nastavení
 
 Na obrázku je vidět ukázka hry. Herní pole 8x8.
 
